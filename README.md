@@ -22,6 +22,17 @@ Also included:
 - `buildroot.config` - Buildroot configuration used for the guest root filesystem
 - `licenses/` - copies of relevant third-party license texts
 
+For fun, the guest root filesystem also includes **shorkfetch** and **shorkmatrix**, which you can run inside the emulated Linux environment.
+
+## Requirements
+
+The following files must be in the same folder as `emulator.exe`:
+
+- `fw_jump.bin`
+- `Image`
+- `virt.dtb`
+- `rootfs.cpio`
+
 ## Requirements
 
 The following files must be in the same folder as `emulator.exe`:
@@ -32,3 +43,4 @@ The following files must be in the same folder as `emulator.exe`:
 - `rootfs.cpio`
 
 `emulator.exe` currently supports 64-bit Windows only.
+It requires the Universal CRT (UCRT) and optionally an ANSI-compatible terminal.
