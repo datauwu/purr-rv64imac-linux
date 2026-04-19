@@ -1,0 +1,25 @@
+THIRD-PARTY SOFTWARE NOTICES
+
+This distribution includes third-party software components licensed separately from the emulator.
+
+Included third-party components:
+
+1. shorkmatrix
+   License: GNU General Public License v3.0
+   Source: https://github.com/SharktasticA/shorkmatrix
+   Commit: 65fcf7d1014f503354e35b54560743f7ca330baf
+
+2. shorkfetch
+   License: GNU General Public License v3.0
+   Source: https://github.com/SharktasticA/shorkfetch
+   Hash: 120eb059e9af184e7e3bf5d620c95e53654d711f
+
+3. Buildroot
+   License: GNU General Public License v2.0 or later
+   Source: https://gitlab.com/buildroot.org/buildroot
+   Version: 2026.02-415-g9f44e9c879-dirty
+
+Notes:
+- These components remain under their own respective licenses.
+- The emulator itself is licensed separately.
+- A copy of the relevant license texts is included in the licenses/ directory.

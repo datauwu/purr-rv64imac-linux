@@ -1,0 +1,14 @@
+Source Code Availability
+
+This distribution includes GPL-covered third-party components.
+
+Corresponding source code for:
+- shorkmatrix
+- shorkfetch
+- Buildroot
+
+is available from the upstream repositories listed in THIRD_PARTY_NOTICES.txt.
+
+Buildroot configuration used for this root filesystem is included as buildroot.config.
+
+If local modifications were made, the modified source code is included alongside the relevant upstream source or otherwise identified in THIRD_PARTY_NOTICES.txt.
