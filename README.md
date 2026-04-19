@@ -41,7 +41,7 @@ The following files must be in the same folder as `emulator.exe`:
 `emulator.exe` currently supports 64-bit Windows only.
 It requires the Universal CRT (UCRT) and an ANSI-compatible terminal.
 
-# Important
+## Important
 
 - Do not press Ctrl+C while the emulator is booting unless you intentionally want to terminate it.
 - Do not press Ctrl+Shift+C in your terminal while the emulator is running or booting.
